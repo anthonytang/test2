@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/controller/ChatApiWebSocket.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/controller/CorsFilter.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/controller/ChatController.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/model/utils/Message.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/model/utils/Invitation.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/model/utils/UserMetadata.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/model/utils/FriendInvitation.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/model/utils/RoomInvitation.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/model/user/User.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/model/DispatchAdapter.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/model/chatroom/ChatRoom.java">
+</file>
+<file name="/Users/anthonytang/Desktop/COMP 427/hw2-anthonytang/backend/src/main/java/model/ChatWorldStore.java">
+</file>
+</checkstyle>
